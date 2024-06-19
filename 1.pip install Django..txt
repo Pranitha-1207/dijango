@@ -1,0 +1,4 @@
+1.pip install Django.
+2.django-admin startproject myblogproject
+cd myblogproject.
+3.python manage.py startapp blog.
